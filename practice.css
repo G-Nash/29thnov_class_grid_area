@@ -20,18 +20,21 @@ body{
 @media screen and (min-width: 0px) and (max-width: 600px) {
     .grid, .grid2, .grid3{
         max-width: 85vw;
+        height: 30vh;
     }
 }
 
 @media screen and (min-width: 601px) and (max-width: 1000px){
     .grid, .grid2, .grid3{
         max-width: 55vw;
+        height: 35vh;
     }
 }
 
 @media screen and (min-width: 1001px){
     .grid, .grid2, .grid3{
         max-width: 40vw;
+        height: 50vh;
     }
 }
 
