@@ -99,12 +99,12 @@ body{
 
 #gridItem27{
     /* grid-area: item7; */
-    background-color: lightyellow;
+    background-color: rgb(255, 255, 137);
 }
 
 #gridItem28{
     /* grid-area: item8; */
-    background-color: red;
+    background-color: rgb(255, 104, 104);
 }
 
 /* .grid2{
