@@ -19,29 +19,13 @@ body{
 
 @media screen and (min-width: 0px) and (max-width: 700px) {
     .grid, .grid2, .grid3{
-        border: solid black;
-        margin-top: 10vh;
         max-width: 75vw;
-        height: 40vh;
-        margin-left: auto;
-        margin-right: auto;
-        display: grid;
-        border-radius: 10px;
-        background-color: black;
     }
 }
 
 @media screen and (min-width: 701px){
     .grid, .grid2, .grid3{
-        border: solid black;
-        margin-top: 10vh;
         max-width: 50vw;
-        height: 40vh;
-        margin-left: auto;
-        margin-right: auto;
-        display: grid;
-        border-radius: 10px;
-        background-color: black;
     }
 }
 
