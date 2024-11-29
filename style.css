@@ -24,3 +24,7 @@ body{
 .subHeading{
     text-decoration: underline;
 }
+
+.practice > .subHeading > a:hover{
+    color: lightgreen;
+}
